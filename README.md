@@ -1,7 +1,7 @@
-### Oii! Eu sou o Bruno Locchi 😄
+## Oii! Eu sou o Bruno Locchi 😄
 Sinta-se à vontade para explorar, interagir e entrar em contato comigo a qualquer momento!
 
-##Sobre mim
+### Sobre mim
 Sou um desenvolvedor de 21 anos que ama tecnologias. Eu moro em São Paulo 🇧🇷. Atualmente estou trabalhando/estudando com HTML, CSS, Python e SQL.
 
 <div align="center">
