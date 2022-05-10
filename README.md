@@ -2,7 +2,7 @@
 Sinta-se à vontade para explorar, interagir e entrar em contato comigo a qualquer momento!
 
 ### Sobre mim
-Sou um desenvolvedor de 21 anos que ama tecnologias. Eu moro em São Paulo 🇧🇷. Atualmente estou trabalhando/estudando com HTML, CSS, Python, Power BI e SQL.
+Sou um desenvolvedor de 21 anos que ama tecnologias. Eu moro em São Paulo 🇧🇷. Atualmente estou trabalhando/estudando com HTML, CSS, Python, BI e SQL.
 
 <div align="center">
   <a href="https://github.com/locchii">
