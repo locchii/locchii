@@ -2,7 +2,7 @@
 Sinta-se à vontade para explorar, interagir e entrar em contato comigo a qualquer momento!
 
 ### Sobre mim
-Sou um desenvolvedor de 22 anos que ama tecnologias. Eu moro em São Paulo 🇧🇷. Atualmente estou trabalhando/estudando com Python, BI e SQL.
+Sou um desenvolvedor de 23 anos que ama tecnologias. Eu moro em São Paulo 🇧🇷. Atualmente estou trabalhando/estudando com Python, BI e SQL.
 
 <div align="center">
   <a href="https://github.com/locchii">
@@ -14,6 +14,8 @@ Sou um desenvolvedor de 22 anos que ama tecnologias. Eu moro em São Paulo 🇧�
     <img align="center" alt="locchi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="locchi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="locchi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="locchi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+          
 </div>
 
   ##
